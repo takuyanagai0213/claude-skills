@@ -1,0 +1,15 @@
+# Project-specific configurations
+**/project-config.md
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
