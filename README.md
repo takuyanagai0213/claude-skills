@@ -8,7 +8,7 @@ Skills are workflow guides that provide step-by-step instructions for common tas
 
 ## Available Skills
 
-### [Incident Response Guide](./incident-response-guide/)
+### [Incident Response](./incident-response/)
 
 A systematic workflow for investigating production alerts and incidents using GCP observability tools.
 
@@ -32,7 +32,7 @@ A systematic workflow for investigating production alerts and incidents using GC
 git clone https://github.com/takuyanagai0213/claude-skills.git
 
 # Copy a skill to your project
-cp -r claude-skills/incident-response-guide /path/to/your/project/.claude/skills/
+cp -r claude-skills/incident-response /path/to/your/project/.claude/skills/
 ```
 
 2. Customize the skill for your project (if needed):
@@ -59,5 +59,5 @@ MIT License - See LICENSE file for details
 
 ## Skills Included
 
-- **incident-response-guide** - GCP incident investigation workflow
+- **incident-response** - GCP incident investigation workflow
 - (More skills coming soon)

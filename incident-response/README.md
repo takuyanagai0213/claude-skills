@@ -40,7 +40,7 @@ This skill provides a step-by-step investigation workflow that:
 1. Copy this directory to your project:
 
 ```bash
-cp -r incident-response-guide /path/to/your/project/.claude/skills/
+cp -r incident-response /path/to/your/project/.claude/skills/
 ```
 
 2. Restart Claude Code or start a new conversation

@@ -1,5 +1,5 @@
 ---
-name: incident-response-guide
+name: incident-response
 description: Incident response workflow assistant for investigating alerts and system issues. Automatically activates when user requests incident investigation, alert analysis, or troubleshooting guidance.
 ---
 
