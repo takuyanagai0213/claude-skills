@@ -29,7 +29,7 @@ A systematic workflow for investigating production alerts and incidents using GC
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_ORG/claude-skills.git
+git clone https://github.com/takuyanagai0213/claude-skills.git
 
 # Copy a skill to your project
 cp -r claude-skills/incident-response-guide /path/to/your/project/.claude/skills/
